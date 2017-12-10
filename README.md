@@ -1,6 +1,6 @@
 # Number To Text
 
-(Leandro)[https://github.com/leandrochomp] and (I)[https://github.com/rogeralmeida] were having fun with (http://codingdojo.org/kata/NumbersInWords/)[http://codingdojo.org/kata/NumbersInWords/]
+[Leandro](https://github.com/leandrochomp) and [I](https://github.com/rogeralmeida) were having fun with [http://codingdojo.org/kata/NumbersInWords/](http://codingdojo.org/kata/NumbersInWords/)
 
 #Requirements
 
